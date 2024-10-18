@@ -4,9 +4,9 @@
 
 - Ver los logs del sistema en tiempo real:
 
-journalctl -f
-
-journalctl -u apache2.service
+        journalctl -f
+        
+        journalctl -u apache2.service
 
 - Logs del sistema (no se instala por defecto).
 
